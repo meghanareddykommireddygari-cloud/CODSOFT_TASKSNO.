@@ -1,0 +1,9 @@
+
+========================================
+       EXPLORATORY DATA ANALYSIS REPORT
+========================================
+1. Average Sales Amount: $528.85 (Median: $485.93)
+2. Outliers: Identified 3 high-value anomaly transactions exceeding $823.91.
+3. Customer Demographics: Average customer age is 39.5 years.
+4. Insights: Sales amount shows low correlation with customer age, indicating consistent spending across age groups.
+========================================
